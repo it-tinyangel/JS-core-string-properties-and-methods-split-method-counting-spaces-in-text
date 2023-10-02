@@ -1,4 +1,4 @@
-const userInputText = prompt('Input your text:');
+let userInputText = prompt('Input your text:');
 
 // let numberOfSpaces = userInputText.split(' ').length - 1;
 let numberOfSpaces = userInputText.split(/\s+/).length - 1;
