@@ -4,4 +4,4 @@
 
 This code is designed to take text input from the user, count the number of spaces in that text using the .split() String method, which splits the text into an array of strings using a space as the delimiter, the .length property, and outputs the result to the console.
 
-- Added JavaScript regular expression use RegExp literal (line 4).
+- Added using JavaScript Regular expression literals (line 4).
